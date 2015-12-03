@@ -47,7 +47,7 @@ public class InfoActivity extends Activity {
         btn_git.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/matbat96/IsMyPhoneOn"));
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/matbat96/IsitChristmas"));
                 startActivity(browserIntent);
             }
         });
