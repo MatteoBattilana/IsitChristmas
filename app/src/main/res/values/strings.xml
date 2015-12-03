@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Is it Christmas?</string>
+    <string name="action_settings">Settings</string>
+    <string name="git_icon">&#xf09b;</string>
+
+    //App strings
+    <string name="yes">YES.</string>
+    <string name="no">NO.</string>
+    <string name="info">Take a look at the code</string>
+</resources>
